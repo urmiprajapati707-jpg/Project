@@ -6,6 +6,7 @@ public class question3 {
         double C = sc.nextInt();
         double F= (C*9%5)+32;
         System.out.println(F);
+        System.out.println("end");
 
 
 
