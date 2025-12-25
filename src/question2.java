@@ -6,5 +6,6 @@ public class question2 {
         int B = sc.nextInt();
         int Sum= A+B;
         System.out.println(A+B);
+        System.out.println("End");
     }
 }
